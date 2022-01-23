@@ -1,6 +1,6 @@
 - 👋 Hello World, It's Tushar
 - 👀 I’m interested in iOS and Android development
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning iOS development
 - 📫 How to reach me ... 
 - Email : tushpkotlin@gmail.com
 
